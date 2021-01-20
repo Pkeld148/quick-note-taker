@@ -15,4 +15,4 @@ https://murmuring-escarpment-62590.herokuapp.com/
 
  ## License
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
- Licensed under the [MIT](https://github.com/Pkeld148/quick-note-taker/blob/main/LICENSE) 
+ Licensed under the [MIT](https://github.com/Pkeld148/quick-note-taker/blob/main/LICENSE) license.
